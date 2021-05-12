@@ -29,7 +29,7 @@ main{
 }
 
 .card{
-    height: 25vw;
+    height: 30vw;
     width: 15vw;
     padding: 3rem;
     display: flex;
@@ -59,7 +59,7 @@ p{
     color: var(--white);
     font-family: var(--main-font);
     font-weight: 400;
-    font-size: 0.9rem;
+    font-size: 1.030rem;
     line-height: 1.7;
 }
 
@@ -74,7 +74,7 @@ button{
     border: none;
     font-family: var(--main-font);
     border-radius: 50px;
-    padding: 0.7rem 1.5rem;
+    padding: 0.9rem 2rem;
 }
 
 #sedans-btn{

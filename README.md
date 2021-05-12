@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/plain-html-and-css-site-with-flexbox-ZsAnWH88A)
+- Live Site URL: [Add live site URL here](https://frontendmentoriochallenge-3-column-layout.netlify.app/)
 
 ### Built with
 
